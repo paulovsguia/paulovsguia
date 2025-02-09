@@ -1,4 +1,4 @@
-## Olá! Me chamo Paulo Victor
+## Olá! Me chamo Paulo Victor 👋
 ### Bem vindo ao meu perfil no Github
 
 <div>
